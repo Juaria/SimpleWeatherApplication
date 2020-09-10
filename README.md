@@ -6,5 +6,4 @@ Below are some Screenshots of the application in an emulator and physical androi
 
 ![](img/AppSS1.PNG)
 
-![](img/PhysicalDeviceSS1.jpg)
-![](img/PhysicalDeviceSS2.jpg)
+![](img/PhysicalDeviceSS.jpg)
